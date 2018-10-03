@@ -13,7 +13,7 @@ public class Quiz {
 		
 		System.out.println("A structure that allows repeated execution of a block of statements is a ________\n1. cycle     3. ring\n "
 				+ "2. loop     4. band");
-		
+		ans1 = input.nextInt();
 	}
 
 }
